@@ -2,3 +2,4 @@
 *.txt
 *.log
 test/__pycache__/*
+*.cache

@@ -12,6 +12,7 @@ log_parser --ip 180.76.15.0/24 --file public_access.log
 ```
 
 - check `output.txt`
+
 # Test
 ```
 py.test test/test_log_parser.py
